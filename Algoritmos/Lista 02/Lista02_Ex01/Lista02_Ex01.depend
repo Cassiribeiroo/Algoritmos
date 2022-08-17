@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657288284 source:c:\users\cassi\documents\nova pasta\lista02_ex01\main.c
+	<stdio.h>
+	<stdlib.h>
+

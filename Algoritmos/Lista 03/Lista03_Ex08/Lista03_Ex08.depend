@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1660612227 source:c:\users\cassi\documents\nova pasta\lista03_ex08\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
